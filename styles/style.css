@@ -606,15 +606,20 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background: #043873;
+    background-color: #043873;
     
     height: 574px
 }
 
-.img {
+.img2 {
     position: relative;
-    top: -50px;
-    left: 40px;
+
+}
+
+.img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
 
 .your-work-heading{
